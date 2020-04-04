@@ -17,7 +17,7 @@
 * Includes the url package to show urls properly and url style is set to same (the same as the default for the document)
 
 ## EE+IA template
-* Now combined into a single etemplate
+* Now combined into a single template
 * They contain all the stuff that is contained within the article template, but the title page, the abstract page and the contents page are on separate pages and the two sections (one extra one added as opposed to the article template) are automatically titled Introduction and conclusion (those are typical to use so I put them there).
 * These might get edited and probably merged into one.
 

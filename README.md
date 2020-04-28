@@ -15,8 +15,9 @@
 cp /PATHTOCLONEDIR/TEMPLATEOFCHOICE.tex /DIROFCHOICE/NAMEOFCHOICE.tex
 ```
 
-	* If you use VIM as your text editor, simply use the read command (:r)
-		* Also possible with VIM on Windows, but use windows paths instead
+* If you use VIM as your text editor, simply use the read command (:r)
+	* Also possible with VIM on Windows, but use windows paths instead
+
 ```
 :r /PATHTOCLONEDIR/TEMPLATEOFCHOICE.tex
 ```
